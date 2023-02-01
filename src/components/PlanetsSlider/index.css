@@ -1,0 +1,5 @@
+/* Write your CSS here */
+.bg-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+}
